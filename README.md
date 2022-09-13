@@ -1,3 +1,3 @@
 # springboot-tutorial-init
 
-수정수정
+스프링 프로젝트 연습입니다.
